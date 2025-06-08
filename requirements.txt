@@ -1,0 +1,20 @@
+# Core RAG dependencies - flexible versions
+openai>=1.6.1
+faiss-cpu
+langchain
+langchain-openai
+python-dotenv
+
+# Document processing
+pypdf2
+python-docx
+beautifulsoup4
+
+# Web framework
+flask
+flask-cors
+
+# Utilities
+tiktoken
+numpy
+pandas
